@@ -3,7 +3,7 @@ title: Stackbit Fresh Theme
 baseurl: "/"
 permalink: "/:title/"
 layout_style: overflow
-palette: orange
+palette: violet
 header:
   title: Stackbit Fresh
   tagline: Header Tagline
