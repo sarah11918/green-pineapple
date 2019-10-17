@@ -5,8 +5,9 @@ permalink: "/:title/"
 layout_style: overflow
 palette: violet
 header:
-  title: Stackbit Fresh
-  tagline: Header Tagline
+  title: Sarah Rainsberger
+  tagline: Former Toronto math tutor. Creates and solves problems. Sometimes in that
+    order.
   profile_img: images/avatar.png
   bg: dark
   has_nav: true
