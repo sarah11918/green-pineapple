@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Gitlab",
+      "icon": "fa-gitlab",
+      "url": "https://www.gitlab.com/sarah11918"
+    },
+    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
