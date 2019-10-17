@@ -1,9 +1,9 @@
 ---
-title: Stackbit Fresh Theme
+title: Sarah Rainsberger
 baseurl: "/"
 permalink: "/:title/"
 layout_style: overflow
-palette: violet
+palette: blue
 header:
   title: Sarah Rainsberger
   tagline: Creates and solves problems. Sometimes in that order.
