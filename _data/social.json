@@ -1,11 +1,6 @@
 {
   "links": [
     {
-      "title": "YouTube",
-      "icon": "fa-youtube",
-      "url": "https://www.youtube.com/user/sarah11918"
-    },
-    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
@@ -20,6 +15,11 @@
       "title": "Flickr",
       "icon": "fa-flickr",
       "url": "https://www.flickr.com/sarahrainsberger"
+    },
+    {
+      "title": "YouTube",
+      "icon": "fa-youtube",
+      "url": "https://www.youtube.com/user/sarah11918"
     },
     {
       "type": "github",
