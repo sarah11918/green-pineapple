@@ -6,8 +6,7 @@ layout_style: overflow
 palette: violet
 header:
   title: Sarah Rainsberger
-  tagline: Former Toronto math tutor. Creates and solves problems. Sometimes in that
-    order.
+  tagline: Creates and solves problems. Sometimes in that order.
   profile_img: images/avatar.png
   bg: dark
   has_nav: true
