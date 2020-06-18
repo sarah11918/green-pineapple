@@ -15,7 +15,7 @@ From our island waterfront "semi-retirement" home in Atlantic Canada, I currentl
 
 I'm "all things tech" for the [Summerside Community Choir](http://www.summersidechoir.ca/), and also sing in the Indian River Festival Chorus. When not rehearsing, I can be found digitizing music, webmastering, tweeting and tech troubleshooting for choir members.
 
-I'm a super-zoom camera enthusiast and especially enjoy photographing birds at home on our local boardwalk or in whatever nature setting I can find on the road. I regularly chronicle life and world travel via [Twitter](https://twitter.com/sarah11918) and annotated [Google Photo albums](https://plus.google.com/+SarahRainsberger/palette). Ever in search of the perfect digital photo-management system, I spend more time than any one human should testing, tweaking and breaking several services.
+I'm a camera enthusiast and especially enjoy photographing birds at home on our local boardwalk or in whatever nature setting I can find on the road. I regularly chronicle life and world travel via [Twitter](https://twitter.com/sarah11918) and annotated [Google Photo albums](https://plus.google.com/+SarahRainsberger/palette). Ever in search of the perfect digital photo-management system, I spend more time than any one human should testing, tweaking and breaking several services.
 
 Other personal interests include cappuccino, watching Toronto Blue Jays baseball on PVR delay so we can skip commercials (no spoilers!), our low-carb/high-fat/grain-free/intermittent fasting/ketogenic diet, stylus-based gadgets (#ALLtheSamsung, plus many niche devices you've probably never heard of), and natural disaster movies where the rogue atmospheric physicist saves the day.
 
